@@ -15,7 +15,9 @@ Après l’exécution du programme, il suffit d’entrer le nombre de joueurs (0
 Pour le mode 2 joueurs, chaque joueur jouent tour à tour.
 Pour le mode 1 joueur, le joueur joue contre un ordinateur programmé pour jouer aléatoirement. 
 Pour le mode 0 joueur, ce sont deux ordinateurs qui s’affrontent.
+
 Rappel des règles du puissance 4 :
+
 Le puissance 4 est un jeu qui se joue à deux joueurs (ici utilisateurs et/ou ordinateurs) dans une grille verticale des six lignes et sept colonnes. Tour à tour les joueurs placent un jeton de leur couleur dans une colonne de leur choix. Pour gagner, il suffit d'être le premier à aligner 4 jetons de sa couleur horizontalement, verticalement ou diagonalement. Si lors d'une partie, tous les jetons sont joués sans qu'il y est d'alignement de jetons, la partie est déclaré nulle.
 
 Améliorations possibles :
